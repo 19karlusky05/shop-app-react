@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { Container, Typography, Button } from "@mui/material";
+import { Container, Button } from "@mui/material";
 import { productsPhones } from "./ProductsPhones";
 
 function ProductDetails() {

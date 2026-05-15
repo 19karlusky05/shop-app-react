@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Card, CardContent, Typography, Button } from "@mui/material";
-import { Container, Grid, CardMedia } from "@mui/material";
+import { Container, Grid } from "@mui/material";
 import { Link } from "react-router-dom";
 import { productsPhones } from "./ProductsPhones";
 import { productsTablets } from "./ProductsTablets";
